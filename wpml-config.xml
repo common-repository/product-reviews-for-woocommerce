@@ -1,0 +1,13 @@
+<wpml-config>
+     <admin-texts>
+          <key name="mwb_prfw_reminder_subject"></key>
+          <key name="mwb_prfw_reminder_email"></key>
+          <key name="mwb_prfw_coupon_mail_subject"></key>
+          <key name="mwb_prfw_reminder_email_coupon_content"></key>
+          <key name="mwb_prfw_prefix_mpn"></key>
+          <key name="mwb_prfw_brand_name"></key>
+          <key name="mwb_prfw_dynamic_fields_details">
+          <key name="*" />
+          </key>
+     </admin-texts>
+</wpml-config>
